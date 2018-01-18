@@ -1,0 +1,1 @@
+g++ palabra.cpp -o palabra -lcv -lhighgui -lcvaux
